@@ -1,3 +1,3 @@
-import * as Icon from './src';
+'use strict';
 
-export default Icon;
+module.exports = require('./src/');
