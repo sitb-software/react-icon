@@ -30,8 +30,8 @@ render(<node, container);
 |border|fa-border class|Boolean|false|
 |pullLeft|fa-pull-left class|Boolean|false|
 |pullRight|fa-pull-right class|Boolean|false|
-|animate|Animated Icons|one of `spin`,`pulse`|undefined|
-|rotate|Rotated|Number|undefined|
+|animate|Animated Icons `fa-spin` or `fa-pulse`|one of `spin`,`pulse`|undefined|
+|rotate|fa-rotate-* 90 180 270|Number|undefined|
 |flipHorizontal|fa-flip-horizontal|Boolean|false|
 |flipVertical|fa-flip-vertical|Boolean|false|
  
