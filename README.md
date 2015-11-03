@@ -3,6 +3,7 @@ React component for font awesome
 
 
 ## Installation
+[![sitb-react-icon](https://nodei.co/npm/sitb-react-icon.png "sitb-react-icon")](https://www.npmjs.com/package/sitb-react-icon)
 
     npm install sitb-react-icon
     
