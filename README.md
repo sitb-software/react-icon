@@ -23,8 +23,9 @@ render(<node, container);
 
 | name     | description    | type     | default      |
 |----------|----------------|----------|--------------|
-|faStyle  | the icon style. more style http://fortawesome.github.io/Font-Awesome/icons/|String    | circle        |
+|faStyle  | the icon style. more style http://fortawesome.github.io/Font-Awesome/icons/|String    | undefined        |
 |className|additional css class of root dom node|String |undefined|
+|size|To increase icon sizes relative to their container|one of [1, 2, 3, 4, 5, '1', '2', '3', '4', '5']|undefined|
 |fixed|fa-fw class|Boolean|false|
 |list| fa-li class|Boolean|false|
 |border|fa-border class|Boolean|false|
@@ -34,7 +35,8 @@ render(<node, container);
 |rotate|fa-rotate-* 90 180 270|Number|undefined|
 |flipHorizontal|fa-flip-horizontal|Boolean|false|
 |flipVertical|fa-flip-vertical|Boolean|false|
- 
+|inverse|fa-inverse|Boolean|false|
+|stack|fa-stack-*|one of [1, 2, '1', '2']|false|
     
 ### License
 [![License](https://img.shields.io/npm/l/react-icon.svg)](LICENSE)
