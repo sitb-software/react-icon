@@ -19,6 +19,18 @@ import { render } from 'react-dom';
 let node = <Icon faStyle='gg' />;
 render(<node, container);
 ```
+
+### Examples
+The cloning project,install lib and start,
+    
+    npm install
+    npm start 
+    http://localhost:9000
+    
+then open ``http://localhost:9000`` in browser.
+
+online example: 
+
 ## Api
 
 | name     | description    | type     | default      |
