@@ -1,0 +1,31 @@
+{
+  "name": "sitb-react-icon",
+  "version": "1.0.0",
+  "description": "React component for font awesome.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/sitb-software/react-icon.git"
+  },
+  "keywords": [
+    "react-icon",
+    "icon",
+    "react",
+    "react-component",
+    "font",
+    "FontAwesome"
+  ],
+  "author": "Sean sean.snow@live.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sitb-software/react-icon/issues"
+  },
+  "homepage": "https://github.com/sitb-software/react-icon#readme",
+  "dependencies": {
+    "classnames": "^2.2.0",
+    "react": "^0.14.1"
+  }
+}
