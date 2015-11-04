@@ -30,7 +30,7 @@ The cloning project,install lib and start,
     
 then open ``http://localhost:9000`` in browser.
 
-online example: 
+online example: http://sitb-software.github.io/react-icon/
 
 ## Api
 
