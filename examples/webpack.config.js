@@ -5,7 +5,7 @@ var webpack = require('webpack');
 
 module.exports = {
 
-    devtool: 'inline-source-map',
+    devtool: process.env.NODE_ENV === 'development' ? 'inline-source-map' : null,
 
     entry: fs.readdirSync(__dirname).reduce(function (entries, dir) {
         if (fs.statSync(path.join(__dirname, dir)).isDirectory())
