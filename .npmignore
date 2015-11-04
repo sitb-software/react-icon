@@ -1,7 +1,0 @@
-node_modules
-.idea
-__tests__
-.gitignore
-src
-examples
-webpack.config.js
