@@ -1,1 +1,1 @@
-webpackJsonp([1, 0], []);
+webpackJsonp([1,0],[]);
